@@ -119,10 +119,10 @@ const CityWeather=(props)=>{
         {`${weather.name} , ${weather.sys.country}`}
     </Location>
     <WeatherInfoContainer>
-        <WeatherInfo label="Visibility" value={`${weather.visibility} M`} source="/icons/visibility.svg"/>
-        <WeatherInfo label="Humidity" value={`${weather.main.humidity}`} source="/icons/humidity.svg"/>
-        <WeatherInfo label="Wind" value={`${weather.wind.speed}`} source="/icons/wind.svg"/>
-        <WeatherInfo label="Pressure" value={`${weather.main.pressure}`} source="/icons/pressure.svg"/>
+        <WeatherInfo label="Visibility" value={`${weather.visibility} M`} source="icons/visibility.svg"/>
+        <WeatherInfo label="Humidity" value={`${weather.main.humidity}`} source="icons/humidity.svg"/>
+        <WeatherInfo label="Wind" value={`${weather.wind.speed}`} source="icons/wind.svg"/>
+        <WeatherInfo label="Pressure" value={`${weather.main.pressure}`} source="icons/pressure.svg"/>
     </WeatherInfoContainer>
     </>
     )
