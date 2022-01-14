@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/WeatherCity-react-app/static/css/main.2d90ec87.css",
-    "main.js": "/WeatherCity-react-app/static/js/main.eb382ab5.js",
+    "main.js": "/WeatherCity-react-app/static/js/main.e49430e4.js",
     "index.html": "/WeatherCity-react-app/index.html",
     "main.2d90ec87.css.map": "/WeatherCity-react-app/static/css/main.2d90ec87.css.map",
-    "main.eb382ab5.js.map": "/WeatherCity-react-app/static/js/main.eb382ab5.js.map"
+    "main.e49430e4.js.map": "/WeatherCity-react-app/static/js/main.e49430e4.js.map"
   },
   "entrypoints": [
     "static/css/main.2d90ec87.css",
-    "static/js/main.eb382ab5.js"
+    "static/js/main.e49430e4.js"
   ]
 }
