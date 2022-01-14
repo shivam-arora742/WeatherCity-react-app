@@ -1,10 +1,21 @@
 body {
   margin: 0;
+  
+  /* ---------------------------------------------------- */
+  /* Additional Styling */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:100vh;
+  background:linear-gradient(rgb(255, 223, 44),rgb(49, 48, 48));
+  /* ---------------------------------------------------- */
+  
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* background-color: black; */
 }
 
 code {
